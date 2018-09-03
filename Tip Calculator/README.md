@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Demo](https://github.com/aditi-bhatia/iOS-Projects/tree/master/Tip%20Calculator/demo/tip-calc-demo.gif "Demo")
+![](https://github.com/aditi-bhatia/iOS-Projects/blob/master/Tip%20Calculator/demo/tip-calc-demo.gif "Demo")
 
 
 ## License
