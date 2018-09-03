@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./demo/tip-calc-demo-.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo](https://github.com/aditi-bhatia/iOS-Projects/tree/master/Tip%20Calculator/demo/tip-calc-demo.gif "Demo")
 
 
 ## License
